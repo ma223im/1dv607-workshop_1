@@ -1,0 +1,30 @@
+Starka sidor:
+
+* Väl strukturerat:
+	- Bra kopplingar gör modelen enkel att förstå 
+* Kopplingarna är väl beskrivna
+
+Svaga sidor:
+
+* Dåliga namn val:
+	- Rule, vad innebär det?
+	- treasure, borde vara treasurer då det kan misstolkas
+* Enligt UML standarden så används pilar för att ange vilken rikting kopplingen sker (Horstmann, 2016)
+	- Sekreteraren "check" "Rule", är en riktad koppling.
+
+Våra funderingar:
+
+* Borde inte membern komma åt kalendern events?
+	- Enligt krav 11 och 12 för workshopen
+* Enligt instruktionerna till workshopen skulle det läggas upp seperata dokument för olika betygsgrader.
+Här finns endast en som täcker flertal betygsgrader.	
+	
+Slutsats:
+
+* Vi anser att modelen inte håller kraven för godkänt på grund av att det inte är rätt model. 
+Om man bortser från delarna av modelen som inte skulle vara med och slarvfelen anser vi att det är en välgjord model med bra struktur.
+
+Referens:
+
+1. Cay S. Horstmann 2002 figur 2.
+	http://www.cs.sjsu.edu/~drobot/cs146/UMLDiagrams.htm	

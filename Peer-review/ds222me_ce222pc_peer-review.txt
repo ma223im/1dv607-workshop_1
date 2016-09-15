@@ -1,0 +1,30 @@
+Starka sidor:
+
+* Väl strukturerat:
+	- Bra kopplingar gör modelen enkel att förstå 
+* Kopplingarna är väl beskrivna
+* Enkel för utomsående att förstå.
+
+Svaga sidor:
+
+* Enligt UML standarden så används pilar för att ange vilken rikting kopplingen sker (Horstmann, 2016)
+
+Våra funderingar:
+
+* Överlag ser den väldigt bra ut enligt oss. Dock finns det några kopplingar som enligt oss kan misstolkas
+Exempelvis "is" mellan Member/ Secretary och "attends" mellan Member och event. 
+
+"Is" tycker vi är onödig på grund av att vi anser att det är en direct association som inte kräver "is" för 
+att förbättra förståelsen.
+
+"Attends" tolkar vi som att membern bara kan närvara till events men han ska också kunna kolla när events sker.
+	
+Slutsats:
+
+* Vi anser att modelen definitivt håller kraven för godkänt, på grund av att den täcker alla kraven med en väldigt
+bra struktur.
+
+Referens:
+
+1. Cay S. Horstmann 2002 figur 2.
+	http://www.cs.sjsu.edu/~drobot/cs146/UMLDiagrams.htm	
