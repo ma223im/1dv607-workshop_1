@@ -1,0 +1,30 @@
+Grade 2:
+ 
+Changes:
+
+	1. Changed names on association ie. Manage berths -> Manage
+	2. Added more multiplicit expressions
+	3. Merged "Sign up" and "log in information" to "Log in server"
+	4. Removed "tresurer" 
+
+Motivation:
+
+1. After the feedback and disscusion in the group changes were made to give more consistency of the naming.
+
+2. Due to changes of "berths" to "berth" we needed to add more correct multiplicit expressions since one secretary should be able to manage several berths.
+
+3. From the feedback we recived we decided to merge "Sign up" and "log in information" because they were both managed the same role.
+
+3/4. From disscusion and feedback we trimmed down the model by removing unnecessary information such as merging "Sign up" and "log in information" because they were both managed the same role.
+     We also removed the "treasurer" because he was irrelevant in this scenario.
+
+
+Grade 3:
+ 
+Changes:
+
+	5. Removed the three payment options since they are a part of the payment system and is then irrelevent. 
+ 
+Motivation:
+
+1,2,3. In the grade 3 model we have made the same changes as we did for grade 2 execpt number 4 because the tresurer is relevant in this scenario.
